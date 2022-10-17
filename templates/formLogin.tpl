@@ -3,6 +3,11 @@
 <div class="login-container">
 
     <form method="POST" action="validate">
+    
+        <div>
+            <p>EMAIL: user@admin.com</p> <br>
+            <p>PASSWORD: useradmin</p>
+        </div>
 
         <div class="form-group">
             <label for="email">Email</label>
